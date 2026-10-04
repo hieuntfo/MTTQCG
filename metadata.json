@@ -1,0 +1,6 @@
+{
+  "name": "Bản sao số Cầu Giấy - Phân hệ MTTQ",
+  "description": "Hệ thống wireframe và bản sao số Mặt trận Tổ quốc phường Cầu Giấy: Phân hệ thông tin đại diện và Báo cáo giám sát",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
